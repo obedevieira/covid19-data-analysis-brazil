@@ -1,16 +1,16 @@
-# 📊 Análise Exploratória dos Dados da COVID-19 no Brasil
+#  Análise Exploratória dos Dados da COVID-19 no Brasil
 
 Este projeto apresenta uma análise exploratória profunda dos dados da COVID-19 nos estados brasileiros, utilizando bibliotecas populares do ecossistema Python para ciência de dados.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Investigar e visualizar o comportamento da pandemia da COVID-19 no Brasil por meio de dados públicos, destacando padrões, correlações e tendências entre casos confirmados, mortes e população dos estados.
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3
 - Pandas
@@ -21,7 +21,7 @@ Investigar e visualizar o comportamento da pandemia da COVID-19 no Brasil por me
 
 ---
 
-## 🗂️ Fonte dos Dados
+##  Fonte dos Dados
 
 - Dataset utilizado: [cases-brazil-states.csv](https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-states.csv)
 - Repositório: https://github.com/wcota/covid19br
@@ -35,7 +35,7 @@ Este dataset contém dados diários por estado brasileiro desde o início da pan
 
 ---
 
-## 📈 Etapas da Análise
+##  Etapas da Análise
 
 1. **Importação e visualização inicial dos dados**
 2. **Tratamento e limpeza de dados**
@@ -49,7 +49,7 @@ Este dataset contém dados diários por estado brasileiro desde o início da pan
 
 ---
 
-## 🔍 Principais Insights
+##  Principais Insights
 
 - Estados mais afetados em termos absolutos e relativos.
 - Correlação forte entre população e número de casos.
@@ -58,7 +58,7 @@ Este dataset contém dados diários por estado brasileiro desde o início da pan
 
 ---
 
-## 📌 O que foi aprendido
+##  O que foi aprendido
 
 - Aplicação prática de uma EDA (Exploratory Data Analysis).
 - Criação de visualizações claras e informativas.
@@ -68,7 +68,7 @@ Este dataset contém dados diários por estado brasileiro desde o início da pan
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório:
 ```
@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Autor
+##  Autor
 
 Obede Vieira dos Santos  
 Cientista de Dados em formação | Python | SQL | EDA | Visualização de Dados
