@@ -1,0 +1,23 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos ocultos do sistema
+.DS_Store
+
+# Arquivos exportados
+*.pdf
+*.xlsx

@@ -1,0 +1,27 @@
+
+PROJETO DE ANÁLISE EXPLORATÓRIA DOS DADOS DA COVID-19 NO BRASIL
+
+Autor: Obede Vieira dos Santos
+
+Descrição:
+Este projeto realiza uma análise exploratória completa (EDA) dos dados públicos da pandemia no Brasil. Utiliza bibliotecas como pandas, seaborn, matplotlib e plotly para investigar padrões, tendências e correlações.
+
+Etapas:
+- Coleta dos dados da fonte oficial (GitHub - wcota)
+- Limpeza e tratamento dos dados
+- Análise estatística descritiva
+- Visualizações de distribuição e outliers
+- Análise temporal por estado
+- Visualizações interativas com Plotly
+- Correlação entre variáveis
+
+Como usar:
+1. Execute o script `analise_covid.py` em um ambiente com Jupyter ou Python 3.10+.
+2. Certifique-se de que as bibliotecas necessárias estão instaladas: pandas, numpy, seaborn, matplotlib, plotly.
+3. Os gráficos serão exibidos ao final de cada etapa da análise.
+
+Finalidade:
+Este projeto foi desenvolvido como material de portfólio para fins de aprendizado, demonstração de habilidades em ciência de dados e apresentação a recrutadores.
+
+Fonte dos dados:
+https://raw.githubusercontent.com/wcota/covid19br/master/cases-brazil-states.csv
